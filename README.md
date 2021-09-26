@@ -3,7 +3,7 @@
 <p>Hi, I'm Rodrique Heron 🙌</p>
 <p>A Linux System Administrator at heart ❤ you can reach me on&nbsp;<a title="Twitter" href="https://twitter.com/swygue"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Rodrique Heron" width="22" height="22" /></a> or&nbsp; <a title="Linkedin" href="https://www.linkedin.com/in/rodriqueheron/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Rodrique Heron" width="22" height="22" /></a></p>
 
-👯 Check out my project [Qubinode](https://github.com/Qubinode) for folks who would like an opinated approach to a Red Hat homelab.
+👯 Check out my project [Qubinode](https://github.com/Qubinode) for folks who would like an opinionated approach to a Red Hat homelab.
 <div style="text-align:center;width:100%;display:inline-block;">
   <div style="width:46%;margin:2%;display:inline-block;float:left;">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=flyemsafe&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=false&include_all_commits=true&show_icons=true&theme=graywhite" />
